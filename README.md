@@ -279,6 +279,6 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) file for 
 
 **Last Updated**: May 2026  
 **Dataset Version**: 1,050 papers (2017-2025)  
-**Status**: Active maintenance
+**Status**: Completed and documented; open for contributions and extensions
 
 [License-Badge]: https://img.shields.io/badge/License-MIT-blue.svg
